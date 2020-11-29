@@ -15,3 +15,16 @@
     font-size: 0.8rem;
     margin-bottom: 4rem;
 }
+
+.hero-img-btm{
+    margin-top: 4rem;
+}
+
+@media only screen and (min-width: 768px){
+    .shop{
+        margin-bottom: 0;
+    }
+
+    .intro-text h2{
+        padding: 0;
+    }
